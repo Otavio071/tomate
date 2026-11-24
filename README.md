@@ -40,6 +40,8 @@ tomato/
 ## Resultados
 
 - **Acurácia de validação: 92,9%**
+- <img width="794" height="270" alt="image" src="https://github.com/user-attachments/assets/a4ad6776-312b-49a7-83b0-ec12a674f42e" />
+
 
 <img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/7355446e-82c9-4173-be03-d0d2363eb1f4" />
 
